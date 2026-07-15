@@ -10,7 +10,7 @@
     <name>ApplicationAnalyzer</name>
     <description>Spring Boot CRUD with Azure MySQL</description>
 
-    <!-- ✅ Spring Boot parent handles dependency versions -->
+    <!-- ✅ Spring Boot parent manages versions -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
